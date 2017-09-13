@@ -9,10 +9,10 @@
       "outDir": "dist",
       "assets": [
         "assets",
-        "favicon.ico"
+        "main.js"
       ],
       "index": "index.html",
-      "main": "main.ts",
+      "main": "app.ts",
       "polyfills": "polyfills.ts",
       "test": "test.ts",
       "tsconfig": "tsconfig.app.json",
